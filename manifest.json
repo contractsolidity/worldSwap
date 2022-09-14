@@ -1,0 +1,12 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://io.WorldSwap.pro",
+  "icons": [
+  ],
+  "orientation": "portrait",
+  "name": "WorldSwap",
+  "short_name": "WorldSwap",
+  "start_url": ".",
+  "theme_color": "#15C76D"
+}
